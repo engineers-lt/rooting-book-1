@@ -1,0 +1,14 @@
+box: vvakame/review
+
+build:
+  steps:
+    - bundle-install
+    - script:
+      name: create pdf
+      code: cd articles ; review pdfmaker config.yml
+    # - script:
+    #   name: create epub
+    #   code: npm run epub
+    - script:
+      name: output artifacts
+      code: cp articles/*.pdf $WERCKER_REPORT_ARTIFACTS_DIR/
