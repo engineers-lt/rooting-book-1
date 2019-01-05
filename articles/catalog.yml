@@ -1,0 +1,20 @@
+PREDEF:
+  # はじめに
+  - preface.re
+
+CHAPS:
+  # 各自書きたい内容とファイル名を追加していく
+  - chap-sample.re
+  - chap-sample2.re
+
+
+APPENDIX:
+
+  # あれば
+
+POSTDEF:
+  # あとがき
+  - postscript.re
+
+  # 執筆者一覧
+  - contributors.re
