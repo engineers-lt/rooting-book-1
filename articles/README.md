@@ -48,6 +48,8 @@ chap-give-ariaki.re
 #### Re:VIEW形式
 このディレクトリ `/articles` に原稿をプッシュしてください。<br>
 プッシュする際のファイル拡張子は「.re」としてください。<br>
+catalog.ymlに自分の原稿ファイルを書き込んでください。<br>
+書き込まないと、pdfの方に連結されません。
 
 - [Re:VIEW記法チートシート](https://qiita.com/froakie0021/items/b0f4ba5f242bbd571d4e)
 
