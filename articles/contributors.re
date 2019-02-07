@@ -138,7 +138,7 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 		\includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        VTRyo @3s_hv   https://twitter.com/3s\_hv\\
+        VTRyo @3s\_hv   https://twitter.com/3s\_hv\\
         サークル名：Growthfaction
         \end{minipage}
     \hspace{1ex}
