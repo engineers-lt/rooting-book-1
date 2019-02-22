@@ -181,6 +181,21 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
 ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援（転職LT主催）が趣味です。
 今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』、親方Projectの『ワンストップ勉強会』もよろしくお願いします。
 
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Udomomo.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        どもも @Udomomo https://twitter.com/Udomomo\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
+いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
+
 == 表紙イラスト担当
 
 
