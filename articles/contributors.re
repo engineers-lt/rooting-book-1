@@ -163,6 +163,21 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援（転職LT主催）が趣味です。
 今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』、親方Projectの『ワンストップ勉強会』もよろしくお願いします。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yukpiz_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ゆくぴず @yukpiz https://twitter.com/yukpiz\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+都内のスタートアップ企業でテックリードをやっています。沖縄出身で勢いだけで東京に飛び出してきました。
+あらゆるエンジニアの成長を支援していく為に、エンジニアの登壇を応援する会で活動しています。
+
 == 表紙イラスト担当
 
 
