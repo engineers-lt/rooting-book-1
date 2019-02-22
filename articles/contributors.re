@@ -132,6 +132,24 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 　
 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kido400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        9wick  @9wick https://twitter.com/9wick
+    \end{minipage}
+    \hspace{1ex}
+//}
+
+IoTエンジニアです。IoTのハードウェア開発（プラスチック形状設計／基板設計等）から、マイコンのファームウェア開発、クラウド上のサーバー開発まで薄く広くやってます。
+技術書典に行ったときに自分も本を出したい！という気持ちがむくむく湧いてきたので、初執筆ですが参加しました。
+
+
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
