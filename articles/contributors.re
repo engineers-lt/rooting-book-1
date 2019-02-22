@@ -179,6 +179,24 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 SIerからWeb系に転職し、現在はフリーランスとして客先常駐しています。数ページですが久々にこんな長い文章を書きました。(コードだとすぐ長くなるんですけど...)
 今回、寄稿した理由はアウトプットが苦手だった自分が、できるようになったきっかけを共有できるようになればと思ったからです。
 
+
+　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Udomomo.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        どもも @Udomomo https://twitter.com/Udomomo\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
+いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
+
+
 == 表紙イラスト担当
 
 
