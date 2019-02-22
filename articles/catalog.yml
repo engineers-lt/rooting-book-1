@@ -13,19 +13,40 @@ CHAPS:
   # 合同誌を書こう＠おやかた
   - chap-give-oyakata.re
 
+  # アウトプットと成長
+  - chap-output-hirosys-1.re
+  - chap-take-yukpiz.re
+  
   # 誰かに背中を押された
-
+  - chap-take-taktstock.re
 
 
   # アウトプットの始め方
   # 初めて勇気を出してアウトプットした
+
   - chap-output-hekitter.re
 
-  # 困難なアウトプットにチャレンジした
+
+  - chap-output-kido-1.re
+
+
+  # 良いインプットを得るための世界一簡単なアウトプット@Udomomo
+  - chap-output-Udomomo.re  
+
+
+
+  # 困難なアウトプットにチャレンジした@vtryo
+  - chap-difficult-vtryo.re
 
   # 長続きするアウトプットを目指す@もっと
   - chap-column-mottox2.re
 
+  - chap-output-kotoe.ishige-1.re
+
+  - chap-output-mzryuka.re
+
+  # アウトプットを誰かのためではなく、自分のためだけにしてみた
+  - chap-output-nsuzuki7713.re
 
 APPENDIX:
 

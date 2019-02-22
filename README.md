@@ -124,8 +124,8 @@
 [Re:VIEWチートシート](https://gist.github.com/erukiti/c4e3189dda179a0f0b73299fb5787838) を作ってみたので、参考にしてみてください。
 
 ## CI
-https://app.wercker.com/oyakata2438/Onestop-meeting/runs
-でPDFが書きだされます。（ちょっと後で更新します）
+https://app.wercker.com/oyakata2438/rooting-book-1/runs
+でPDFが書きだされます。（更新忘れてたので1/29更新。出力確認済）
 一番上のBuildをクリックすると展開されるので、
 Output Artifactをクリックして、Download artifactをクリックすると、
 tarで固めたpdfがダウンロードできます。
