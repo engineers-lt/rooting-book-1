@@ -163,6 +163,24 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援（転職LT主催）が趣味です。
 今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』、親方Projectの『ワンストップ勉強会』もよろしくお願いします。
 
+　
+
+//embed{
+
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/nsuzuki7713_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なおと @naoto\_7713   https://twitter.com/naoto\_7713\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、現在はフリーランスとして客先常駐しています。数ページですが久々にこんな長い文章を書きました。(コードだとすぐ長くなるんですけど...)
+今回、寄稿した理由はアウトプットが苦手だった自分が、できるようになったきっかけを共有できるようになればと思ったからです。
+
+
+　
 
 
 //embed{
@@ -177,6 +195,7 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 //}
 もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
 いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
+
 
 == 表紙イラスト担当
 
