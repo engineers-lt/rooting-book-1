@@ -4,8 +4,6 @@ PREDEF:
 
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
-  - chap-sample.re
-  - chap-sample2.re
 
   # アウトプットを繋ぐ
   # 誰かの背中を押した
