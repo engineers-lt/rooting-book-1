@@ -18,6 +18,7 @@ CHAPS:
   # 誰かに背中を押された
   - chap-take-taktstock.re
 
+  - chap-take-yumechi-1.re
 
   # アウトプットの始め方
   # 初めて勇気を出してアウトプットした
@@ -27,11 +28,12 @@ CHAPS:
 
   - chap-output-kido-1.re
 
+  - chap-output-zakizaki_ri9.re
 
   # 良いインプットを得るための世界一簡単なアウトプット@Udomomo
   - chap-output-Udomomo.re  
 
-
+  - chap-output-dassimen.re
 
   # 困難なアウトプットにチャレンジした@vtryo
   - chap-difficult-vtryo.re
