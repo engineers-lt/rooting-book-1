@@ -94,10 +94,25 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
        \end{minipage}
    \hspace{1ex}
 //}
-放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
-今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
+放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました。「エンジニアの登壇を応援する会」に関わりエンジニアとして成長することができたと思っております。それをもっと多く人に知ってもらいたい、そんな気持ちから、この本に関わらせてもらいました、みなさまのお役に立てれば幸いです。
 
 　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もっと @mottox2   https://twitter.com/mottox2\\
+        サークル名：つのぶえ出版
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。#engineers_ltではHP係をやってます。
+自分のサークルではNetlifyという開発プラットフォームの逆引き本を書いています。口笛とホルンを吹きます。
+
+　　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -116,6 +131,24 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 　
 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kido400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        9wick  @9wick https://twitter.com/9wick
+    \end{minipage}
+    \hspace{1ex}
+//}
+
+IoTエンジニアです。IoTのハードウェア開発（プラスチック形状設計／基板設計等）から、マイコンのファームウェア開発、クラウド上のサーバー開発まで薄く広くやってます。
+技術書典に行ったときに自分も本を出したい！という気持ちがむくむく湧いてきたので、初執筆ですが参加しました。
+
+
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -128,6 +161,71 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
     \hspace{1ex}
 //}
 普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
+
+　
+
+//embed{
+
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        VTRyo @3s\_hv   https://twitter.com/3s\_hv\\
+        サークル名：Growthfaction
+        \end{minipage}
+    \hspace{1ex}
+//}
+五反田のスタートアップでSREチームに所属しています。本業より個別活動の方が露出が多いです。
+ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援（転職LT主催）が趣味です。
+今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』、親方Projectの『ワンストップ勉強会』もよろしくお願いします。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yukpiz_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ゆくぴず @yukpiz https://twitter.com/yukpiz\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+都内のスタートアップ企業でテックリードをやっています。沖縄出身で勢いだけで東京に飛び出してきました。
+あらゆるエンジニアの成長を支援していく為に、エンジニアの登壇を応援する会で活動しています。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/nsuzuki7713_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なおと @naoto\_7713   https://twitter.com/naoto\_7713\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、現在はフリーランスとして客先常駐しています。数ページですが久々にこんな長い文章を書きました。(コードだとすぐ長くなるんですけど...)
+今回、寄稿した理由はアウトプットが苦手だった自分が、できるようになったきっかけを共有できるようになればと思ったからです。
+
+
+　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Udomomo.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        どもも @Udomomo https://twitter.com/Udomomo\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
+いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
 
 == 表紙イラスト担当
 

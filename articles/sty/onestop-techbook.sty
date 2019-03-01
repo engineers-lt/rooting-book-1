@@ -51,7 +51,11 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}}
 
-\hypersetup{colorlinks=false}
+%% (このすみ変更)リンクの色を隠す
+%%\hypersetup{colorlinks=false}
+%% SEE: https://review-knowledge-ja.readthedocs.io/ja/latest/faq/faq-tex.html#714955a91b75a512c0706765baaae9ea
+\hypersetup{hidelinks}
+
 %%Helveticaを使う
 \renewcommand{\sfdefault}{phv}
 
@@ -150,3 +154,11 @@
 
 \setlength{\oddsidemargin}{-0.05in}
 \setlength{\evensidemargin}{-0.4in}
+
+%% del tag strike
+\usepackage{ulem}
+\renewcommand{\reviewstrike}[1]{\sout{#1}}
+
+%% make TOC non-red color
+\hypersetup{colorlinks=false}
+
