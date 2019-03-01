@@ -19,8 +19,6 @@
 
 == 発起人/編集
 
-
-== 執筆者
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -32,26 +30,10 @@
         \end{minipage}
     \hspace{1ex}
 //}
-勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
-
-　
+勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。
 
 
-//embed{
-
-    \begin{minipage}{.1\linewidth}
-        \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        Aizack @ykokubo09   https://twitter.com/ykokubo09\\
-        サークル名：Everyone Outputer
-        \end{minipage}
-    \hspace{1ex}
-//}
-SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
-
-　
+== 執筆者
 
 //embed{
     \begin{minipage}{.1\linewidth}
