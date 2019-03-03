@@ -208,6 +208,22 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
 いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
 
+　
+　
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ishige.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Kotoe Ishige @oturu333 https://twitter.com/oturu333\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+Web系エンジニアで、現在はフリーランスとして客先常駐しています。EMと女性エンジニアを増やすための活動に興味があります。
+
+
 == 表紙イラスト担当
 
 
