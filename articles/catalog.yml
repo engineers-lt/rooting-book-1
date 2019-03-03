@@ -4,14 +4,15 @@ PREDEF:
 
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
-  - chap-sample.re
-  - chap-sample2.re
 
   # アウトプットを繋ぐ
   # 誰かの背中を押した
 
   # 合同誌を書こう＠おやかた
   - chap-give-oyakata.re
+  
+  # 妖精の背中を押す覚悟と喜び
+  - chap-give-kane.re
 
   # アウトプットと成長
   - chap-output-hirosys-1.re
@@ -20,6 +21,9 @@ CHAPS:
   # 誰かに背中を押された
   - chap-take-taktstock.re
 
+  - chap-take-yumechi-1.re
+
+  - chap-take-nemu.re
 
   # アウトプットの始め方
   # 初めて勇気を出してアウトプットした
@@ -29,11 +33,12 @@ CHAPS:
 
   - chap-output-kido-1.re
 
+  - chap-output-zakizaki_ri9.re
 
   # 良いインプットを得るための世界一簡単なアウトプット@Udomomo
   - chap-output-Udomomo.re  
 
-
+  - chap-output-dassimen.re
 
   # 困難なアウトプットにチャレンジした@vtryo
   - chap-difficult-vtryo.re
@@ -45,8 +50,11 @@ CHAPS:
 
   - chap-output-mzryuka.re
 
+  - chap-early-50s-sapi_kawahara.re
   # アウトプットを誰かのためではなく、自分のためだけにしてみた
   - chap-output-nsuzuki7713.re
+
+  - chap-output-awana.re
 
 APPENDIX:
 
