@@ -190,6 +190,19 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 //}
 Web系エンジニアで、現在はフリーランスとして客先常駐しています。EMと女性エンジニアを増やすための活動に興味があります。
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hiro_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        長村ひろ @hirosys_ https://twitter.com/hirosys_\\
+        サークル名： ひろ亭
+        \end{minipage}
+    \hspace{1ex}
+//}
+本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
 
 == 表紙イラスト担当
 
