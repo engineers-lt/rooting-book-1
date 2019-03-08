@@ -46,23 +46,8 @@
         \end{minipage}
     \hspace{1ex}
 //}
-おしごと界隈で働いているエンジニア
+情報発信をベースに間接的にエンジニアや学生を応援する人！ 人の成長や充実を真剣に考えてます。
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
-growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        FORTE(フォルテ) https://twitter.com/FORTEgp05
-        \end{minipage}
-    \hspace{1ex}
-//}
-SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
 
 　
 
@@ -94,25 +79,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。#engineers_ltではHP係をやってます。
 自分のサークルではNetlifyという開発プラットフォームの逆引き本を書いています。口笛とホルンを吹きます。
 
-　　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ゆのん @yunon\_phys https://twitter.com/yunon\_phys\\
-        サークル名： Growthfaction , EM.FM https://anchor.fm/em-fm
-        \end{minipage}
-    \hspace{1ex}
-//}
-これまで複数タイトルのモバイルゲームのプロジェクトマネージメント業務に従事してきました。
-Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
-今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
-
 　
-
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -127,7 +94,6 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 IoTエンジニアです。IoTのハードウェア開発（プラスチック形状設計／基板設計等）から、マイコンのファームウェア開発、クラウド上のサーバー開発まで薄く広くやってます。
 技術書典に行ったときに自分も本を出したい！という気持ちがむくむく湧いてきたので、初執筆ですが参加しました。
-
 
 　
 
@@ -208,6 +174,22 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 //}
 もともとはUXコンサルタントでしたが、ふとしたことからエンジニアに社内転職。本業でJava、副業でRuby on Railsを使用中。
 いろいろな経験を積むにつれて、限られた時間で成果を出す大切さを身にしみて感じています。この原稿を締め切りまでに書き上げられれば、またひとつ成長できる気がする・・・（願望）
+
+　
+　
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ishige.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Kotoe Ishige @oturu333 https://twitter.com/oturu333\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+Web系エンジニアで、現在はフリーランスとして客先常駐しています。EMと女性エンジニアを増やすための活動に興味があります。
+
 
 == 表紙イラスト担当
 

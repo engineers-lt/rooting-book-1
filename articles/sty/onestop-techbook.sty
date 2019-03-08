@@ -162,3 +162,32 @@
 %% make TOC non-red color
 \hypersetup{colorlinks=false}
 
+\def\resettoclevel{%オリジナルのレベル
+\def\toclevel@part{-1}
+\def\toclevel@chapter{0}
+\def\toclevel@section{1}
+\def\toclevel@subsection{2}
+\def\toclevel@subsubsection{3}
+\def\toclevel@paragraph{4}
+\def\toclevel@subparagraph{5}
+}
+
+\def\uptoclevel{%部以下の見出しレベルを1つ大きくする
+\def\toclevel@part{0}
+\def\toclevel@chapter{1}
+\def\toclevel@section{2}
+\def\toclevel@subsection{3}
+\def\toclevel@subsubsection{4}
+\def\toclevel@paragraph{5}
+\def\toclevel@subparagraph{6}
+}
+
+\def\downtoclevel{%章以下の見出しレベルを1つ小さくする
+\def\toclevel@part{-1}
+\def\toclevel@chapter{-1}
+\def\toclevel@section{1}
+\def\toclevel@subsection{2}
+\def\toclevel@subsubsection{3}
+\def\toclevel@paragraph{4}
+\def\toclevel@subparagraph{5}
+}

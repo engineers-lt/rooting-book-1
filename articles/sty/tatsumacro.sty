@@ -82,20 +82,20 @@
 }
 
 \def\@makechapterhead#1{%
-  \vspace*{0.5\Cvs}% 欧文は50pt
+  \vspace*{0.1\Cvs}% 欧文は50pt
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
       \if@mainmatter
         \hfill{\huge\headfont \@chapapp\thechapter\@chappos}
         \par\nobreak
-        \vskip 0.5\Cvs % 欧文は20pt
+        \vskip 0.1\Cvs % 欧文は20pt
       \fi
     \fi
     \interlinepenalty\@M
     \hfill{\huge \headfont #1\par\nobreak}
     \vspace*{-2mm}%
     \rule{\textwidth}{0.1mm}
-    \vskip 1.0\Cvs}} % 欧文は40pt
+    \vskip 0.1\Cvs}} % 欧文は40pt
 
 
 
