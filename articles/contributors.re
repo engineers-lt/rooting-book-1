@@ -52,20 +52,6 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 　
 
 //embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        FORTE(フォルテ) https://twitter.com/FORTEgp05
-        \end{minipage}
-    \hspace{1ex}
-//}
-SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
-
-　
-
-//embed{
    \begin{minipage}{.1\linewidth}
        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
@@ -93,25 +79,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。#engineers_ltではHP係をやってます。
 自分のサークルではNetlifyという開発プラットフォームの逆引き本を書いています。口笛とホルンを吹きます。
 
-　　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ゆのん @yunon\_phys https://twitter.com/yunon\_phys\\
-        サークル名： Growthfaction , EM.FM https://anchor.fm/em-fm
-        \end{minipage}
-    \hspace{1ex}
-//}
-これまで複数タイトルのモバイルゲームのプロジェクトマネージメント業務に従事してきました。
-Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
-今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
-
 　
-
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -126,7 +94,6 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 IoTエンジニアです。IoTのハードウェア開発（プラスチック形状設計／基板設計等）から、マイコンのファームウェア開発、クラウド上のサーバー開発まで薄く広くやってます。
 技術書典に行ったときに自分も本を出したい！という気持ちがむくむく湧いてきたので、初執筆ですが参加しました。
-
 
 　
 
