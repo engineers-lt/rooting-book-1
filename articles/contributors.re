@@ -197,7 +197,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
         \includegraphics[width=.75\linewidth]{images/contributors/hiro_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        長村ひろ @hirosys_   https://twitter.com/hirosys\_\\
+        長村ひろ @hirosys\_   https://twitter.com/hirosys\_\\
         サークル名： ひろ亭
         \end{minipage}
     \hspace{1ex}
