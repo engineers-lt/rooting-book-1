@@ -205,6 +205,23 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 //}
 本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
 
+ 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/zaki.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ずっとアウトプットしてこなかったエンジニアです。
+現在は、仕事・プライベートともにRubyとVue.jsを触りつつ、週一ブログなどでアウトプットしています。
+
+
+
 == 表紙イラスト/デザイン担当
 
 　
@@ -219,6 +236,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
     \hspace{1ex}
 //}
 絵を描いたり漫画を描いたりプログラムを書いたり3Dモデリングをしたりしています。
+
 
 まだ自分がやったことがない面白いことが大好きです。
 
