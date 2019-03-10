@@ -213,7 +213,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
         \includegraphics[width=.75\linewidth]{images/contributors/zaki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ざき @zucky_zakizaki https://twitter.com/zucky_zakizaki\\
+        ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
         \end{minipage}
     \hspace{1ex}
 //}
