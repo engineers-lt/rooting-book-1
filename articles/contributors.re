@@ -191,6 +191,7 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 Web系エンジニアで、現在はフリーランスとして客先常駐しています。EMと女性エンジニアを増やすための活動に興味があります。
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -204,9 +205,36 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 //}
 本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
 
-== 表紙イラスト担当
+== 表紙イラスト/デザイン担当
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mai.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        まい@maimai\_ai\_   https://twitter.com/maimai\_ai\_\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+絵を描いたり漫画を描いたりプログラムを書いたり3Dモデリングをしたりしています。
 
+まだ自分がやったことがない面白いことが大好きです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kirin.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        杉田のぞみ @nznz\_mi\_0825 https://twitter.com/nznz\_mi\_0825\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+役者をしていたり楽器を弾いていたりエンジニアをしていたり校正さんをしていたり。ふわりふわりと生きています。またいつか、どこかで。
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
