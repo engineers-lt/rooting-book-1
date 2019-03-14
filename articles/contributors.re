@@ -221,7 +221,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 本職はサーバーAPIを書くお仕事ですが、趣味ではフロントからインフラまで広く浅くやっている感じです。
 開発も好きだけど、コミュニティも好き！皆さんのアウトプットが私を強くしてくれています（笑）
 
- 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -235,6 +235,23 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 //}
 ずっとアウトプットしてこなかったエンジニアです。
 現在は、仕事・プライベートともにRubyとVue.jsを触りつつ、週一ブログなどでアウトプットしています。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/dassimen.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        脱脂綿 @anchor\_cable https://twitter.com/anchor\_cable\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+これを書いている時点では転職活動中の開発者の卵です。
+
+検閲を外して転職活動をしています。
+
 
 
 
