@@ -133,7 +133,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yukpiz_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/yukpiz.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ゆくぴず @yukpiz https://twitter.com/yukpiz\\
