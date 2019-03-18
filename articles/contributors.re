@@ -284,6 +284,21 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
 
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/taktstock.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        タクト @taskforce_Hisui https://twitter.com/taskforce_Hisui\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+インプットだらけなサーバレスエンジニアです。と言っても、ほぼLambdaとアーキテクト。
+MSP業界会社で開発者をしているので、社内に「開発はいいぞ」と広げる活動中です。アジャイルの導入も目論んでいるところです。
+
+
+
 ==[notoc] 表紙イラスト/デザイン担当
 
 　
