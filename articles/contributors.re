@@ -252,6 +252,21 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 
 検閲を外して転職活動をしています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
+最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語です。
+
 
 
 
