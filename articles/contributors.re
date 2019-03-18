@@ -38,6 +38,19 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/awana_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        あわな @a\_w\_a\_n\_a https://twitter.com/a\_w\_a\_n\_a\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+都内ベンチャーでインフラエンジニアをしています。野球が大好きな阪神ファンです。あと音楽とドラムと夏フェスとダンスとアイドルも好きです。基本的に多趣味です。学びたい技術もたくさんあります。最近やってみたいのは野球のデータ分析です。
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -206,7 +219,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
 
 　
- 
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
