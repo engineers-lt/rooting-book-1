@@ -2,7 +2,7 @@
 ===[notoc] 〜コンフォートゾーンを抜け出そう〜
 
 //flushright{
-Kotoe Ishige @oturu333
+Kotoe Ishige（@oturu333）
 //}
 
 #@# ペルソナ

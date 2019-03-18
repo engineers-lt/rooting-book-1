@@ -1,7 +1,7 @@
 = 「分からない」が教えてくれたこと
 
 //flushright{
-taktstock@タクト
+taktstock＠タクト（@taskforce_Hisui）
 //}
 
 == はじめに

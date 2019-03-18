@@ -1,7 +1,7 @@
 = やってみたい駆動
 
 //flushright{
-hekitter @hekitter
+@hekitter
 //}
 
 #@# タイトル変えたいかも

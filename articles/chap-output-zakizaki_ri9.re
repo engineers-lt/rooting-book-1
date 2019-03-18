@@ -2,7 +2,7 @@
 = 特徴や目標がない方に送るアウトプットの参考方法
 
 //flushright{
-ざき@zucky_zakizaki
+ざき（@zucky_zakizaki）
 //}
 
 == はじめに

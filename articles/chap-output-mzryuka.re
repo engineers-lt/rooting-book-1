@@ -1,7 +1,7 @@
 = アウトプットの始め方： 40代独立系SIerのケース
 
 //flushright{
-みずりゅ@MzRyuKa
+みずりゅ（@MzRyuKa）
 //}
 
 == はじめに

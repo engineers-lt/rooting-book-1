@@ -1,7 +1,7 @@
 = 乗り越えよ、さらば与えられん
 
 //flushright{
-VTRyo@3s_hv
+VTRyo（@3s_hv）
 //}
 
 #@# ターゲット
