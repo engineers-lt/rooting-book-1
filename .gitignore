@@ -1,0 +1,5 @@
+/node_modules/
+.vscode
+.DS_Store
+/articles/.DS_Store
+/articles/*.pdf
