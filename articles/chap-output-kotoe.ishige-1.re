@@ -1,5 +1,4 @@
 = アウトプットをすることで自分の未来も変えられる
-===[notoc] 〜コンフォートゾーンを抜け出そう〜
 
 //flushright{
 Kotoe Ishige @oturu333
