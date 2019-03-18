@@ -1,7 +1,7 @@
 = 井の中の蛙が大海を知った後
 
 //flushright{
-長村ひろ @hirosys_
+長村ひろ（@hirosys_）
 //}
 
 == はじめに
