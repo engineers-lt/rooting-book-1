@@ -282,7 +282,18 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 頭を打って変になったと、周りからは言われています。
 PMチームでDB担当しながら、副業で会社設立し、Management3.0のファシリテーターとして幸せな仕事の仕方を実験しながら広めています。みかんは世界一可愛い
 
-
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/KazuyaNakahara_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なつお @KazuyaNakahara https://twitter.com/KazuyaNakahara\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIer経験、メガベンチャーを経て、現在はAIを開発する会社のフルスタックエンジニアLv1です。
+好きな言語はPythonです。（この段階ではまだ勉強中）お気軽に絡める系人材です！
 
 ==[notoc] 表紙イラスト/デザイン担当
 
