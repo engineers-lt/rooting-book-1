@@ -269,6 +269,20 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nemu_400x400.jpeg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ねむ @nemu1986 https://twitter.com/nemu1986\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+頭を打って変になったと、周りからは言われています。
+PMチームでDB担当しながら、副業で会社設立し、Management3.0のファシリテーターとして幸せな仕事の仕方を実験しながら広めています。みかんは世界一可愛い
+
+
 
 ==[notoc] 表紙イラスト/デザイン担当
 
