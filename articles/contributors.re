@@ -290,7 +290,7 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
         \includegraphics[width=.75\linewidth]{images/contributors/taktstock.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        タクト @taskforce_Hisui https://twitter.com/taskforce_Hisui\\
+        taktstock@タクト @taskforce_Hisui https://twitter.com/taskforce_Hisui\\
         \end{minipage}
     \hspace{1ex}
 //}
