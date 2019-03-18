@@ -226,7 +226,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/zaki.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/zaki.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
