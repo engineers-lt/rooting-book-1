@@ -94,12 +94,15 @@ SEに求められる仕事、それは客先で自分の部下やBP（協力社�
 
 Google先生に頼るしかないと思い、「Xamarin 初心者」「Xamarin 勉強方法」などのキーワードを打ち込み、Xamarinを理解する方法を探しました。
 
-すると、connpass(https://connpass.com/dashboard/) というIT系の勉強会を検索するサイトが見つかりました。Xamarinで検索すると、次の勉強会が目に飛び込んできました。
+すると、@<fn>{connpass}というIT系の勉強会を検索するサイトが見つかりました。Xamarinで検索すると、次の勉強会が目に飛び込んできました。
+
+//footnote[connpass][https://jxug.connpass.com/]
+
 
  * C＃活用そのままで大丈夫？Xamarinで始めるモバイルアプリ開発とクラウド連携（ハンズオン）
- ** グループ: JXUG(Japan Xamarin User Group)
- ** URL 　: https://jxug.connpass.com/event/46454/
+ ** グループ: @<fn>{JXUG（Japan Xamarin User Group）}
 
+//footnote[JXUG（Japan Xamarin User Group）][https://jxug.connpass.com/event/46454/]
 
 
 「これだ...！自分が探していたものは！」
@@ -129,8 +132,12 @@ Google先生に頼るしかないと思い、「Xamarin 初心者」「Xamarin �
 
 
 ふと、以前からこういった感覚があったことを思い出しました。
-DOBON.NET(https://dobon.net/)のことです。DOBON.NETは、主にWindowsForm(Windowsアプリ)開発に関する知見がたくさん詰まっているサイトです。新卒からこの時に至るまで、プログラミング経験の私を支え続けてくれました。DOBON.NETだけでなく、他のブログやQiita記事も同様です。そんな@<strong>{顔も知らない、話をしたこともないエンジニアの皆さんに助けられてきた}のだなということを実感しました。
 
+
+@<fn>{DOBON.NET}のことです。DOBON.NETは、主にWindowsForm（Windowsアプリ）開発に関する知見がたくさん詰まっているサイトです。新卒からこのときに至るまで、プログラミング経験の私を支え続けてくれました。DOBON.NETだけでなく、他のブログやQiita記事も同様です。そんな@<strong>{顔も知らない、話をしたこともないエンジニアの皆さんに助けられてきた}のだなということを実感しました。
+
+
+//footnote[DOBON.NET][https://dobon.net/]
 
 
 「@<strong>{お世話になった分、自分も何かを返していきたい}」
@@ -166,7 +173,9 @@ DOBON.NET(https://dobon.net/)のことです。DOBON.NETは、主にWindowsForm(
 
 
 
-株式会社Rosso(http://www.rosso-tokyo.co.jp/)という会社でした。
+@<fn>{株式会社Rosso}という会社でした。
+
+//footnote[株式会社Rosso][http://www.rosso-tokyo.co.jp/]
 
 
 
@@ -201,8 +210,12 @@ Windowsアプリや上流工程ばかり行っていた私にとって、実に�
 
 そして、少しアドベントカレンダーの予約日から遅れたものの、次の記事（はじめてのアウトプット）を行うことができました！
 
- 1. SQLServerで実行されたSQLやストアドをキャプチャする方法@<br>{}https://qiita.com/zaki_zaki/items/799928cf0b225b10b4d4
- 1. Android、iOSアプリの勉強に手を出せずにいる方へ@<br>{}https://qiita.com/zaki_zaki/items/7fcd0fffef29e751e6e8
+ 1. @<fn>{SQLServerで実行されたSQLやストアドをキャプチャする方法}
+ 1. @<fn>{Android、iOSアプリの勉強に手を出せずにいる方へ}
+
+//footnote[SQLServerで実行されたSQLやストアドをキャプチャする方法][https://qiita.com/zaki_zaki/items/799928cf0b225b10b4d4]
+
+//footnote[Android、iOSアプリの勉強に手を出せずにいる方へ][https://qiita.com/zaki_zaki/items/7fcd0fffef29e751e6e8]
 
 ここから、わたしのアウトプットは徐々に加速していくことになります。
 
@@ -245,7 +258,7 @@ Windowsアプリや上流工程ばかり行っていた私にとって、実に�
 
 
 
-他のエンジニアのためになったという嬉しさとこれからも他のエンジニアのためになる情報を伝えていきたいという気持ちを持つことができました。
+他のエンジニアのためになったという嬉しさとこれからも他のエンジニアのためになる情報を伝えていきたいという気持ちをもつことができました。
 
 
 === 初登壇
@@ -261,7 +274,9 @@ Windowsアプリや上流工程ばかり行っていた私にとって、実に�
 
 Rossoでは、参加者が社員Onlyという社内勉強会の場がありました。アウトプットに興味を示していた私に対して、運営メンバーの方が登壇のお誘いの声をかけてくださいました。そして、はじめての登壇を行うことができました。
 
- * クロスプラットフォーム開発環境のすゝめ@<br>{}https://speakerdeck.com/zucky_zakizaki/kurosupuratutohuomukai-fa-huan-jing-falsesu-me
+ * @<fn>{クロスプラットフォーム開発環境のすゝめ}
+ 
+//footnote[クロスプラットフォーム開発環境のすゝめ][https://speakerdeck.com/zucky_zakizaki/kurosupuratutohuomukai-fa-huan-jing-falsesu-me]
 
 
 
@@ -286,12 +301,16 @@ Rossoでは、参加者が社員Onlyという社内勉強会の場がありま�
 
 
 
- * エンジニアの登壇を応援する会@<br>{}https://portal.engineers-lt.info/
- * 主催のariakiさん@<br>{}https://twitter.com/ariaki4dev
+ * @<fn>{エンジニアの登壇を応援する会}
+ * 主催の@<fn>{ariaki}さん
 
+//footnote[ariaki][https://twitter.com/ariaki4dev]
 
+//footnote[エンジニアの登壇を応援する会][https://portal.engineers-lt.info/]
 
-とあるQiitaコメント欄でのやりとり(https://qiita.com/ariaki/items/bb83c0635b1bbec66452)をきっかけに、ariakiさんがRossoへ来てくださることになり、そこではじめて交流しました。
+とある@<fn>{Qiitaコメント欄でのやりとり}をきっかけに、ariakiさんがRossoへ来てくださることになり、そこではじめて交流しました。
+
+//footnote[Qiitaコメント欄でのやりとり][https://qiita.com/ariaki/items/bb83c0635b1bbec66452]
 
 
 
@@ -311,7 +330,9 @@ Rossoでは、参加者が社員Onlyという社内勉強会の場がありま�
 
 しかし、業務内でうまく言語化したいことが見つかり、LTしたいという気持ちが湧き上がって来ました。そして、社外のもくもく会でLTすることができました。
 
- * OpenLayersで始める地図の操作@<br>{}https://speakerdeck.com/zucky_zakizaki/openlayersdeshi-merudi-tu-falsecao-zuo
+ * @<fn>{OpenLayersで始める地図の操作}
+ 
+//footnote[OpenLayersで始める地図の操作][https://speakerdeck.com/zucky_zakizaki/openlayersdeshi-merudi-tu-falsecao-zuo]
 
 
 OpenLayersという地図系ライブラリについての発表だったのですが、色々なフィードバックをいただきました。
@@ -322,7 +343,10 @@ OpenLayersという地図系ライブラリについての発表だったので�
 
 
 
-登壇したことで自分だけしか知らなかった知見を他の方に共有することができましたし、フィードバック（新たなインプット）を得ることもできました。私の登壇する意欲はさらに高まっていき、builderscon tokyo 2018(https://builderscon.io/tokyo/2018)というカンファレンスのLTに参加することもできました。
+登壇したことで自分だけしか知らなかった知見を他の方に共有することができましたし、フィードバック（新たなインプット）を得ることもできました。私の登壇する意欲はさらに高まっていき、@<fn>{builderscon tokyo 2018}というカンファレンスのLTに参加することもできました。
+
+
+//footnote[builderscon tokyo 2018][https://builderscon.io/tokyo/2018]
 
 
 
@@ -367,24 +391,33 @@ OpenLayersという地図系ライブラリについての発表だったので�
 === 行動して成長した今の自分を認めてあげよう
 
 
-このままだと、近い将来、本当にアウトプットを辞めてしまうと思った私は、@<br>{}KANEさん(https://twitter.com/higuyume)から「セイチョウ・ジャーニー」を購入させていただきました。
+このままだと、近い将来、本当にアウトプットを辞めてしまうと思った私は、@<fn>{KANE}さんから「セイチョウ・ジャーニー」を購入させていただきました。
+
+
+//footnote[KANE][https://twitter.com/higuyume]
+
+　
+
+
+「@<fn>{セイチョウ・ジャーニー}」は、成長につながるヒントやノウハウが書かれているという評判を@<fn>{技術書典5}という、エンジニアが執筆した技術同人誌を販売するイベントにて、耳にしていました。
+
+
+//footnote[セイチョウ・ジャーニー][https://booth.pm/ja/items/1038923]
+
+
+//footnote[技術書典5][https://techbookfest.org/event/tbf05]
+
+
+購入後、通勤時間を使って読み始めました。内容は評判どおりでした。どう学習を進めれば効率的かつ自身が充実できるか、自分のこだわり等を深掘りする方法、勉強会に参加するメリット、対話する際のお互いのコンテキストによって言葉の解釈が異なる、行動のハードルを低くする、といった成長や自身を充実した気持ちにさせてくれるための色々な気づきをくれました。
 
 
 　
 
 
-「セイチョウ・ジャーニー」(https://booth.pm/ja/items/1038923) は、成長につながるヒントやノウハウが書かれているという評判を技術書典5(https://techbookfest.org/event/tbf05)という、エンジニアが執筆した技術同人誌を販売するイベントにて、耳にしていました。
+なかでも、@<fn>{ゆのん}さんのパート「行動のハードルを低くするジャーニー」が今の私に響きました。そのパートには、このようなことが書かれていました。
 
 
-
-購入後、通勤時間を使って読み始めました。内容は評判通りでした。どう学習を進めれば効率的かつ自身が充実できるか、自分のこだわり等を深掘りする方法、勉強会に参加するメリット、対話する際のお互いのコンテキストによって言葉の解釈が異なる、行動のハードルを低くする、といった成長や自身を充実した気持ちにさせてくれるための色々な気づきをくれました。
-
-
-　
-
-
-なかでも、ゆのんさん(https://twitter.com/yunon_phys)のパート「行動のハードルを低くするジャーニー」が今の私に響きました。そのパートには、このようなことが書かれていました。
-
+//footnote[ゆのん][https://twitter.com/yunon_phys]
 
  * 行動そのものを目標とする
  * 無理に目標を立てる必要はない、行動して変化を起こしてみよう
@@ -434,9 +467,10 @@ OpenLayersという地図系ライブラリについての発表だったので�
 　
 
 
-以前の私と同じ状況にいる方を支えていきたいと思いました。誰かから受けた恩を他の人へ送ること、最近では、恩送りと呼ぶそうですが、まさにそれを実践していきたいと思っています。
+以前の私と同じ状況にいる方を支えていきたいと思いました。誰かから受けた恩を他の人へ送ること、最近では、@<fn>{恩送り}と呼ぶそうですが、まさにそれを実践していきたいと思っています。
 
- * 恩送り - Wikipedia@<br>{}https://ja.wikipedia.org/wiki/%E6%81%A9%E9%80%81%E3%82%8A
+
+//footnote[恩送り][https://ja.wikipedia.org/wiki/%E6%81%A9%E9%80%81%E3%82%8A]
 
 
 ==== 結論「特徴や目標がないと感じているあなたもアウトプットできる！」
@@ -559,8 +593,10 @@ OpenLayersという地図系ライブラリについての発表だったので�
 
 
 
-もし、このような不安がありましたら、エンジニアの登壇を応援する会のSlackワークスペース(http://bit.ly/elt-slack)に入ってぜひ相談ください。できる限りサポートします！
+もし、このような不安がありましたら、エンジニアの登壇を応援する会のSlackワークスペースに入ってぜひ声をかけてみてください。できる限りサポートします！
 
+
+http://bit.ly/elt-slack
 
 
 あなたがアウトプットの第一歩を踏み出せることを心から待ち望んでいます！
