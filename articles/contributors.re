@@ -8,12 +8,12 @@
         \includegraphics[width=.75\linewidth]{images/contributors/KJuhmDlA_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
-        サークル名：エンジニアの登壇を応援する会 https://portal.engineers-lt.info/
+        ariaki　https://twitter.com/ariaki4dev
     \end{minipage}
     \hspace{1ex}
 //}
-勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。
+ITエンジニア向けコミュニティ『エンジニアの登壇を応援する会』を立ち上げ活動中です。
+毎月イベント開催していますので、ぜひ遊びにきてください！
 
 ===[notoc] 執筆者
 
@@ -24,7 +24,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/awana_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        あわな @a\_w\_a\_n\_a https://twitter.com/a\_w\_a\_n\_a\\
+        あわな　https://twitter.com/a\_w\_a\_n\_a
     \end{minipage}
     \hspace{1ex}
 //}
@@ -39,7 +39,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/ishige.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Kotoe Ishige @oturu333 https://twitter.com/oturu333\\
+        Kotoe Ishige　https://twitter.com/oturu333
     \end{minipage}
     \hspace{1ex}
 //}
@@ -54,7 +54,7 @@ Web系エンジニアで、現在はフリーランスとして客先常駐し�
         \includegraphics[width=.75\linewidth]{images/contributors/nsuzuki7713_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        なおと @naoto\_7713   https://twitter.com/naoto\_7713\\
+        なおと　https://twitter.com/naoto\_7713
     \end{minipage}
     \hspace{1ex}
 //}
@@ -64,7 +64,18 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 　
 
 #@# やってみたい駆動 / hekitter
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hekitter_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        hekitter　https://twitter.com/hekitter
+    \end{minipage}
+    \hspace{1ex}
+//}
 
+　
 
 #@# インプットを呼びこむ世界一単純なアウトプット / Udomomo
 //embed{
@@ -73,7 +84,7 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
         \includegraphics[width=.75\linewidth]{images/contributors/Udomomo.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        どもも @Udomomo https://twitter.com/Udomomo\\
+        どもも　https://twitter.com/Udomomo
     \end{minipage}
     \hspace{1ex}
 //}
@@ -89,7 +100,7 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
         \includegraphics[width=.75\linewidth]{images/contributors/kido400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        9wick  @9wick https://twitter.com/9wick
+        9wick　https://twitter.com/9wick
     \end{minipage}
     \hspace{1ex}
 //}
@@ -106,7 +117,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/hiro_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        長村ひろ @hirosys\_   https://twitter.com/hirosys\_\\
+        長村ひろ　https://twitter.com/hirosys\_\\
         サークル名： ひろ亭
     \end{minipage}
     \hspace{1ex}
@@ -122,7 +133,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
+        みずりゅ　https://twitter.com/mzryuka
     \end{minipage}
     \hspace{1ex}
 //}
@@ -138,7 +149,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
-       さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
+       さっぴー川原　https://twitter.com/sapi\_kawahara
        \end{minipage}
    \hspace{1ex}
 //}
@@ -153,7 +164,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        VTRyo @3s\_hv   https://twitter.com/3s\_hv\\
+        VTRyo　https://twitter.com/3s\_hv
         サークル名：Growthfaction
     \end{minipage}
     \hspace{1ex}
@@ -171,7 +182,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/zaki.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
+        ざき　https://twitter.com/zucky\_zakizaki
     \end{minipage}
     \hspace{1ex}
 //}
@@ -187,7 +198,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/dassimen.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        脱脂綿 @anchor\_cable https://twitter.com/anchor\_cable\\
+        脱脂綿　https://twitter.com/anchor\_cable
     \end{minipage}
     \hspace{1ex}
 //}
@@ -204,7 +215,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/yukpiz.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ゆくぴず @yukpiz https://twitter.com/yukpiz\\
+        ゆくぴず　https://twitter.com/yukpiz
     \end{minipage}
     \hspace{1ex}
 //}
@@ -220,7 +231,7 @@ IoTエンジニアです。IoTのハードウェア開発（プラスチック�
         \includegraphics[width=.75\linewidth]{images/contributors/taktstock.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        taktstock@タクト @taskforce\_Hisui https://twitter.com/taskforce\_Hisui\\
+        taktstock@タクト　https://twitter.com/taskforce\_Hisui
     \end{minipage}
     \hspace{1ex}
 //}
@@ -236,7 +247,7 @@ MSP業界会社で開発者をしているので、社内に「開発はいい�
         \includegraphics[width=.75\linewidth]{images/contributors/nemu_400x400.jpeg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ねむ @nemu1986 https://twitter.com/nemu1986\\
+        ねむ　https://twitter.com/nemu1986
     \end{minipage}
     \hspace{1ex}
 //}
@@ -252,8 +263,8 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
         \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/higuyume\\
-        サークル名： growthfaction /
+        KANE　https://twitter.com/higuyume\\
+        サークル名： Growthfaction
     \end{minipage}
     \hspace{1ex}
 //}
@@ -269,7 +280,7 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
         \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        親方 @oyakata2438 https://twitter.com/oyakata2438\\
+        親方　https://twitter.com/oyakata2438\\
         サークル名：親方Project
     \end{minipage}
     \hspace{1ex}
@@ -285,7 +296,7 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
         \includegraphics[width=.75\linewidth]{images/contributors/KazuyaNakahara_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        なつお @KazuyaNakahara https://twitter.com/KazuyaNakahara\\
+        なつお　https://twitter.com/KazuyaNakahara
     \end{minipage}
     \hspace{1ex}
 //}
@@ -301,7 +312,7 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
         \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        もっと @mottox2   https://twitter.com/mottox2\\
+        もっと　https://twitter.com/mottox2\\
         サークル名：つのぶえ出版
     \end{minipage}
     \hspace{1ex}
@@ -318,7 +329,7 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
         \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        yumechi @\_\_yumechi   https://twitter.com/\_\_yumechi \\
+        yumechi　https://twitter.com/\_\_yumechi
     \end{minipage}
     \hspace{1ex}
 //}
@@ -343,13 +354,14 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 
 ===[notoc] 表紙イラスト/デザイン担当
 
+#@# まいさん
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/mai.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        まい@maimai\_ai\_   https://twitter.com/maimai\_ai\_\\
+        まい　https://twitter.com/maimai\_ai\_
     \end{minipage}
     \hspace{1ex}
 //}
@@ -358,13 +370,14 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 
 　
 
+#@# 杉田のぞみさん
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/kirin.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        杉田のぞみ @nznz\_mi\_0825 https://twitter.com/nznz\_mi\_0825\\
+        杉田のぞみ　https://twitter.com/nznz\_mi\_0825
     \end{minipage}
     \hspace{1ex}
 //}
