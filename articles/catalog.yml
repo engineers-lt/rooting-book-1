@@ -83,6 +83,9 @@ CHAPS:
       # 他者登壇受動型アウトプットモデル / yumechi
       - chap-column-yumechi.re
 
+      # 人財エージェント目線でのアウトプットの重要性について / takano
+      - chap-column-takano.re
+
   # 部のリセット用
   - chap-reset.re
 
