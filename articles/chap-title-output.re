@@ -1,5 +1,9 @@
 = はじめてのアウトプット
 
+//embed[latex]{
+\thispagestyle{empty}
+//}
+
 ==[notoc] はじめに
 
 すべてのストーリーには、はじまりがあります。
@@ -14,35 +18,9 @@
 
 小さな勇気があれば、きっとアウトプットを始めることができます。
 
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-//indepimage[chap-title-output][][scale=0.5]{
+//embed[latex]{
+    \vfill
+    \begin{center}
+        \includegraphics[width=.5\linewidth]{images/covers/chap-title-output.png}
+    \end{center}
 //}

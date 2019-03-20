@@ -1,5 +1,9 @@
 = 困難な道への挑戦
 
+//embed[latex]{
+\thispagestyle{empty}
+//}
+
 ==[notoc] はじめに
 
 挑戦が私たちを強くします。
@@ -17,31 +21,9 @@
 
 困難を成し遂げた瞬間、きっとあなたも至福の喜びを見出すはずです。
 
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-//indepimage[chap-title-difficult][][scale=0.5]{
+//embed[latex]{
+    \vfill
+    \begin{center}
+        \includegraphics[width=.5\linewidth]{images/covers/chap-title-difficult.png}
+    \end{center}
 //}

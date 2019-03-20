@@ -1,5 +1,9 @@
 = 背中を押してくれる人
 
+//embed[latex]{
+\thispagestyle{empty}
+//}
+
 ==[notoc] はじめに
 
 人はみな、常に誰かに支えられながら日々を過ごしています。
@@ -15,31 +19,9 @@
 
 そして、あなたの心に残った言葉を、周りの方にも伝えてください。
 
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-//indepimage[chap-title-take][][scale=0.5]{
+//embed[latex]{
+    \vfill
+    \begin{center}
+        \includegraphics[width=.5\linewidth]{images/covers/chap-title-take.png}
+    \end{center}
 //}

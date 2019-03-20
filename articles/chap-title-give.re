@@ -1,5 +1,9 @@
 = 背中を押す勇気
 
+//embed[latex]{
+\thispagestyle{empty}
+//}
+
 ==[notoc] はじめに
 
 あなたのまわりに、一歩踏み出す勇気がもてない方はいませんか？
@@ -16,33 +20,9 @@
 あなたにもできるはずです。
 きっとお互いが幸せになれる、そんな未来を作ってみませんか？
 
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-　
-
-//indepimage[chap-title-give][][scale=0.5]{
+//embed[latex]{
+    \vfill
+    \begin{center}
+        \includegraphics[width=.5\linewidth]{images/covers/chap-title-give.png}
+    \end{center}
 //}
