@@ -1,7 +1,7 @@
 = 50歳を目前にアウトプットをしようと決意したこと
 
 //flushright{
-さっぴー川原@sapi_kawahara
+さっぴー川原（@sapi_kawahara）
 //}
 
 == はじめに
