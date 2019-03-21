@@ -1,7 +1,7 @@
 = 他者登壇受動型アウトプットモデル
 
 //flushright{
-@yumechi
+yumechi （@__yumechi）
 //}
 
 == 登壇しているのは著名・有名なエンジニアばかりですか？
