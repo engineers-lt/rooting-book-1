@@ -67,14 +67,15 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hekitter_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/hekitter02_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         hekitter　https://twitter.com/hekitter
     \end{minipage}
     \hspace{1ex}
 //}
-
+七転び八起きのSE兼自称業務デザイナー。
+技術書典5に人生を変えてもらったので、自分も文章書くぞと思ったら、仕事でこける、ギリギリ感。
 　
 
 #@# インプットを呼びこむ世界一単純なアウトプット / Udomomo
