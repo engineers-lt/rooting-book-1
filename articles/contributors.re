@@ -329,13 +329,14 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
         \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        yumechi　https://twitter.com/\_\_yumechi
+        yumechi　https://twitter.com/\_\_yumechi\\
+        サークル名：イカも競技も下手くそ
     \end{minipage}
     \hspace{1ex}
 //}
-4月から4年目になるPythonエンジニア。SI・SESメインの会社から自社サービス開発を行う現職へ転職。
-本職はサーバーAPIを書くお仕事ですが、趣味ではフロントからインフラまで広く浅くやっている感じです。
-開発も好きだけど、コミュニティも好き！皆さんのアウトプットが私を強くしてくれています（笑）
+Pythonistaのサーバーサイドエンジニアです。趣味では、フロントからインフラまで広く浅くやってます。
+開発も、コミュニティも、好き！皆さんのアウトプットが私を強くしてくれています（笑）
+今回、個人サークルはお休みしましたが、次の技術書典7は個人でも出したいですね。
 
 　
 
