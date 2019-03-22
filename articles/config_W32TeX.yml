@@ -281,7 +281,7 @@ epubmaker:
 # LaTeX用のスタイルファイル(styディレクトリ以下に置くこと)
 # tatsumacroは、電子書籍版の制作に利用する
 # texstyle: tatsumacro
-texstyle: onestop-techbook
+texstyle: rooting-book
 #
 # LaTeX用のdocumentclassを指定する
 # texdocumentclass: ["jsbook", "oneside,14pt,uplatex"]

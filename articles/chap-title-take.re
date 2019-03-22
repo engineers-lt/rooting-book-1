@@ -1,9 +1,5 @@
 = 背中を押してくれる人
 
-//embed[latex]{
-\thispagestyle{empty}
-//}
-
 ==[notoc] はじめに
 
 人はみな、常に誰かに支えられながら日々を過ごしています。

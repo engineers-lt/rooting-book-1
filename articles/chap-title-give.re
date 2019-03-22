@@ -1,9 +1,5 @@
 = 背中を押す勇気
 
-//embed[latex]{
-\thispagestyle{empty}
-//}
-
 ==[notoc] はじめに
 
 あなたのまわりに、一歩踏み出す勇気がもてない方はいませんか？

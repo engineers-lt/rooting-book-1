@@ -1,9 +1,5 @@
 = はじめてのアウトプット
 
-//embed[latex]{
-\thispagestyle{empty}
-//}
-
 ==[notoc] はじめに
 
 すべてのストーリーには、はじまりがあります。

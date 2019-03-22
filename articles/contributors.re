@@ -345,14 +345,16 @@ Pythonistaのサーバーサイドエンジニアです。趣味では、フロ�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/takano.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         珍☆平
     \end{minipage}
     \hspace{1ex}
 //}
-テストデータを入れておきます。
+初めまして！都内某所でエンジニアと仲良くお話するお仕事をさせて頂いております。
+主にキャリアパスのご相談を中心に、その延長線として転職支援をさせて頂いております！
+非エンジニアですが、そこそこテック系の話は出来ますので、お気軽に絡んでください！ドラえもんが大好きです！！
 
 ===[notoc] 表紙イラスト/デザイン担当
 

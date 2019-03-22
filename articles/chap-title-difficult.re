@@ -1,9 +1,5 @@
 = 困難な道への挑戦
 
-//embed[latex]{
-\thispagestyle{empty}
-//}
-
 ==[notoc] はじめに
 
 挑戦が私たちを強くします。
