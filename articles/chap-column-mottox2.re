@@ -1,7 +1,7 @@
-=[nonum] 長続きするアウトプットを目指す
+= 長続きするアウトプットを目指す
 
 //flushright{
-もっと@mottox2
+もっと（@mottox2）
 //}
 
 この本でいろんな人のアウトプットのきっかけやチャレンジを読んできたと思います。
@@ -36,7 +36,7 @@ LTや登壇は反応があってわかりやすい分、自分の話すテーマ
 
 そう思った時、一番簡単なのは『エンジニアの登壇を応援をする会』のSlack@<fn>{slack}に参加してアウトプットへの反応をもらうといいでしょう。
 
-//footnote[slack][https://engineers-lt.slack.com/messages]
+//footnote[slack][http://bit.ly/elt-slack]
 
 === こだわりすぎて公開できない！
 

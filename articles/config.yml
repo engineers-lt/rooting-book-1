@@ -23,11 +23,10 @@ language: ja
 
 # 書名
 # 読みを入れる例 booktitle: {name: "Re:VIEW EPUBサンプル", file-as: "リビューイーパブサンプル"}
-booktitle: エンジニアの成長を応援する本
+booktitle: {name: "エンジニアの成長を応援する本", file-as: "エンジニアノセイチョウヲオウエンスルホン"}
 
 # 著者名。「, 」で区切って複数指定できる
 # 読みを入れる例 aut: [{name: "青木峰郎", file-as: "アオキミネロウ"}, {name: "武藤健志", file-as: "ムトウケンシ"}, {name: "高橋征義", file-as: "タカハシマサヨシ"}, {name: "角征典", file-as: "カドマサノリ"}]
-# edt: ["エンジニアの登壇を応援する会"]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -58,9 +57,11 @@ booktitle: エンジニアの成長を応援する本
 # a-oth, oth: その他
 # a-pht, pht: 撮影責任者
 # a-pbl, pbl: 出版社（発行所）
+dsr: 杉田のぞみ（@nznz_mi_0825）
+ill: まい（@maimai_ai_）
 pbl: エンジニアの登壇を応援する会
 # a-prt, prt: 印刷所
-prt: 有限会社　ねこのしっぽ
+prt: 有限会社 ねこのしっぽ
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
 # a-rev, rev: 評論者
@@ -80,7 +81,9 @@ history: [["2019-4-14 技術書典6"]]
 # rights: (C) 2016 Re:VIEW Developers
 rights: (C) 2019 エンジニアの登壇を応援する会
 # description: 説明
+description: 「様々なアウトプットを通じて成長を加速する」ことをテーマに、寄稿者それぞれの成長を描いています。
 # subject: 短い説明用タグ(配列で複数指定可)
+subject: ["成長","応援","登壇","エンジニア","アウトプット"]
 # type: 書籍のカテゴリーなど(配列で複数指定可)
 # format: メディアタイプおよび特徴(配列で複数指定可)
 # source: 出版物生成の重要なリソース情報(配列で複数指定可)
@@ -92,7 +95,8 @@ debug: null
 
 # 固有IDに使用するドメイン。省略した場合は時刻に基づくランダムUUIDが入る
 # urnid: urn:uid:https://github.com/TechBooster/ReVIEW-Template
-#
+urnidid: urn:uid:https://github.com/engineers-lt/rooting-book-1
+
 # ISBN。省略した場合はurnidが入る
 # isbn: null
 #

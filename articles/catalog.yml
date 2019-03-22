@@ -4,38 +4,6 @@ PREDEF:
 
 CHAPS:
   ##############################################################################
-  # 誰かに背中を押された
-
-  - chap-title-take.re:
-      # 特徴や目標がない方に送るアウトプットの参考方法 / zaki
-      - chap-output-zakizaki_ri9.re
-
-      # 自己検閲の外し方　仕事にもプライベートにもアウトプットにも通じる、幸せになる方法 / 脱脂綿
-      - chap-take-dassimen.re
-
-      # 未来の目標、夢を設定する重要性について / ねむ
-      - chap-take-nemu.re
-
-      # 「分からない」が教えてくれたこと / taktstock (Task4ce_Hisui)
-      - chap-take-taktstock.re
-
-      # アウトプットがしたい、でもできない方に / yukpiz
-      - chap-take-yukpiz.re
-
-  ##############################################################################
-  # 誰かの背中を押した
-
-  - chap-title-give.re:
-      # 技術系合同誌に参加しよう / おやかた
-      - chap-give-oyakata.re
-
-      # 妖精の背中を押す覚悟と喜び / KANE
-      - chap-give-kane.re
-
-      # インプットとアウトプットのお作法について / KazuyaNakahara
-      - chap-give-kazuyanakahara.re
-
-  ##############################################################################
   # 初めて勇気を出してアウトプットした
 
   - chap-title-output.re:
@@ -45,26 +13,26 @@ CHAPS:
       # アウトプットをすることで自分の未来も変えられる / kotoe.ishige
       - chap-output-kotoe.ishige-1.re
 
-      # 井の中の蛙が大海を知った後 / 長村ひろ
-      - chap-output-hirosys-1.re
-
-      # 50歳を目前にアウトプットをしようと決意したこと / sapi_kawahara
-      - chap-output-sapi_kawahara.re
+      # アウトプットを誰かのためではなく、自分のためだけにしてみた / なおと
+      - chap-output-nsuzuki7713.re
 
       # やってみたい駆動 / hekitter
       - chap-output-hekitter.re
 
+      # インプットを呼びこむ世界一単純なアウトプット / Udomomo
+      - chap-output-Udomomo.re
+
       # 人見知りな人ほど登壇したらいいと思う / kido
       - chap-output-kido-1.re
+
+      # 井の中の蛙が大海を知った後 / 長村ひろ
+      - chap-output-hirosys-1.re
 
       # アウトプットの始め方： 40代独立系SIerのケース / MzRyuka
       - chap-output-mzryuka.re
 
-      # インプットを呼びこむ世界一単純なアウトプット / Udomomo
-      - chap-output-Udomomo.re
-
-      # アウトプットを誰かのためではなく、自分のためだけにしてみた / なおと
-      - chap-output-nsuzuki7713.re
+      # 50歳を目前にアウトプットをしようと決意したこと / sapi_kawahara
+      - chap-output-sapi_kawahara.re
 
   ##############################################################################
   # 困難なアウトプットにチャレンジした
@@ -74,9 +42,40 @@ CHAPS:
       - chap-difficult-vtryo.re
 
   ##############################################################################
+  # 誰かに背中を押された
+
+  - chap-title-take.re:
+      # 特徴や目標がない方に送るアウトプットの参考方法 / zaki
+      - chap-output-zakizaki_ri9.re
+
+      # 自己検閲の外し方 / 脱脂綿
+      - chap-take-dassimen.re
+
+      # アウトプットがしたい、でもできない方に / yukpiz
+      - chap-take-yukpiz.re
+
+      # 「分からない」が教えてくれたこと / taktstock (Task4ce_Hisui)
+      - chap-take-taktstock.re
+
+      # 未来の目標、夢を設定する重要性について / ねむ
+      - chap-take-nemu.re
+
+  ##############################################################################
+  # 誰かの背中を押した
+
+  - chap-title-give.re:
+      # 妖精の背中を押す覚悟と喜び / KANE
+      - chap-give-kane.re
+
+      # 技術系合同誌に参加しよう / おやかた
+      - chap-give-oyakata.re
+
+      # インプットとアウトプットのお作法について / KazuyaNakahara
+      - chap-give-kazuyanakahara.re
+
+  ##############################################################################
   # コラム
 
-  #- コラム:
   - chap-title-column.re:
       # 長続きするアウトプットを目指す / もっと
       - chap-column-mottox2.re
@@ -84,8 +83,9 @@ CHAPS:
       # 他者登壇受動型アウトプットモデル / yumechi
       - chap-column-yumechi.re
 
-    # 0からのイベント初め / hekitter
-    # アウトプットが僕を形作る / たすく
+      # 人財エージェント目線でのアウトプットの重要性について / takano
+      - chap-column-takano.re
+
   # 部のリセット用
   - chap-reset.re
 

@@ -1,0 +1,29 @@
+{
+  "name": "rooting-book-1",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "lint": "textlint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineers-lt/rooting-book-1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engineers-lt/rooting-book-1/issues"
+  },
+  "homepage": "https://portal.engineers-lt.info/",
+  "devDependencies": {
+    "textlint": "^11.2.3",
+    "textlint-plugin-review": "^0.3.3",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^4.0.0",
+    "textlint-rule-preset-icsmedia": "github:ics-creative/textlint-rule-preset-icsmedia",
+    "textlint-rule-preset-japanese": "^4.0.2",
+    "textlint-rule-preset-jtf-style": "^2.3.3",
+    "textlint-rule-prh": "^5.2.0"
+  }
+}
