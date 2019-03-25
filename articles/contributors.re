@@ -1,6 +1,6 @@
 = 著者紹介
 
-===[notoc] 発起人/編集
+===[notoc] 編集／執筆者
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -12,8 +12,42 @@
     \end{minipage}
     \hspace{1ex}
 //}
-ITエンジニア向けコミュニティ『エンジニアの登壇を応援する会』を立ち上げ活動中です。
-毎月イベント開催していますので、ぜひ遊びにきてください！
+ITエンジニア向けコミュニティ『エンジニアの登壇を応援する会』を立ち上げ、2018年より活動しています。
+毎月、成長をキーワードにしたイベントを開催していますので、ぜひ遊びにきてください！
+
+　
+
+#@# 技術系合同誌に参加しよう / 親方
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        親方　https://twitter.com/oyakata2438\\
+        サークル名：親方Project
+    \end{minipage}
+    \hspace{1ex}
+//}
+普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
+
+　
+
+#@# 井の中の蛙が大海を知った後 / 長村ひろ
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hiro_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        長村ひろ　https://twitter.com/hirosys\_\\
+        サークル名： ひろ亭
+    \end{minipage}
+    \hspace{1ex}
+//}
+本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
+
+//pagebreak
 
 ===[notoc] 執筆者
 
@@ -108,22 +142,6 @@ SIerからWeb系に転職し、現在はフリーランスとして客先常駐�
 
 IoTエンジニアです。IoTのハードウェア開発（プラスチック形状設計／基板設計等）から、マイコンのファームウェア開発、クラウド上のサーバー開発まで薄く広くやってます。
 技術書典に行ったときに自分も本を出したい！という気持ちがむくむく湧いてきたので、初執筆ですが参加しました。
-
-　
-
-#@# 井の中の蛙が大海を知った後 / 長村ひろ
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hiro_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        長村ひろ　https://twitter.com/hirosys\_\\
-        サークル名： ひろ亭
-    \end{minipage}
-    \hspace{1ex}
-//}
-本業は伝統的日本企業なSIerの中の人です。クラウドエンジニアとして設計構築に明け暮れる日々を過ごしつつ、子育ての傍、ひろ亭というサークルでエモ技術書を作り出しています。
 
 　
 
@@ -274,22 +292,6 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 
 　
 
-#@# 技術系合同誌に参加しよう / 親方
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        親方　https://twitter.com/oyakata2438\\
-        サークル名：親方Project
-    \end{minipage}
-    \hspace{1ex}
-//}
-普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
-
-　
-
 #@# インプットとアウトプットのお作法について / KazuyaNakahara
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -348,13 +350,15 @@ Pythonistaのサーバーサイドエンジニアです。趣味では、フロ�
         \includegraphics[width=.75\linewidth]{images/contributors/takano.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        珍☆平
+        珍☆平　https://twitter.com/shinpei\_takano
     \end{minipage}
     \hspace{1ex}
 //}
 初めまして！都内某所でエンジニアと仲良くお話するお仕事をさせて頂いております。
 主にキャリアパスのご相談を中心に、その延長線として転職支援をさせて頂いております！
 非エンジニアですが、そこそこテック系の話は出来ますので、お気軽に絡んでください！ドラえもんが大好きです！！
+
+//pagebreak
 
 ===[notoc] 表紙イラスト/デザイン担当
 
