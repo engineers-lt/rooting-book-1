@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
+    "build": "docker run -t --rm -v ./articles:/book vvakame/review /bin/sh -c \"cd /book && review-pdfmaker config.yml\"",
     "lint": "textlint"
   },
   "repository": {
